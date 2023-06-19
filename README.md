@@ -1,0 +1,1 @@
+The Bookstore Management System is a web-based application that provides an efficient and user-friendly platform for managing bookstore operations. It aims to simplify and automate various tasks involved in the day-to-day operations of a bookstore, such as managing inventory, handling customer orders, tracking sales, and generating reports.
